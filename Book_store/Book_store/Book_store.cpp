@@ -8,5 +8,5 @@ int main()
 {
 	setlocale(LC_CTYPE, "rus");
 
-	Auth::Choose_user_type();
+	cout << "text";
 }
